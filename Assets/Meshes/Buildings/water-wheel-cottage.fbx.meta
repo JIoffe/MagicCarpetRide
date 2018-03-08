@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 2db0fabbfc19650408f2def97b81a21d
+timeCreated: 1491093405
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: Door
+    100004: LargeWindow
+    100006: LeftBuilding
+    100008: RightBuilding
+    100010: RoofA
+    100012: RoofB
+    100014: RoofC
+    100016: Small_Window
+    100018: Stairs
+    100020: Stones
+    100022: //RootNode
+    100024: Wheel
+    100026: WheelAxle
+    100028: WheelCap
+    100030: WheelSpokes
+    400000: Barrel
+    400002: Door
+    400004: LargeWindow
+    400006: LeftBuilding
+    400008: RightBuilding
+    400010: RoofA
+    400012: RoofB
+    400014: RoofC
+    400016: Small_Window
+    400018: Stairs
+    400020: Stones
+    400022: //RootNode
+    400024: Wheel
+    400026: WheelAxle
+    400028: WheelCap
+    400030: WheelSpokes
+    2300000: Barrel
+    2300002: Door
+    2300004: LargeWindow
+    2300006: LeftBuilding
+    2300008: RightBuilding
+    2300010: RoofA
+    2300012: RoofB
+    2300014: RoofC
+    2300016: Small_Window
+    2300018: Stairs
+    2300020: Stones
+    2300022: //RootNode
+    2300024: Wheel
+    2300026: WheelAxle
+    2300028: WheelCap
+    2300030: WheelSpokes
+    3300000: Barrel
+    3300002: Door
+    3300004: LargeWindow
+    3300006: LeftBuilding
+    3300008: RightBuilding
+    3300010: RoofA
+    3300012: RoofB
+    3300014: RoofC
+    3300016: Small_Window
+    3300018: Stairs
+    3300020: Stones
+    3300022: //RootNode
+    3300024: Wheel
+    3300026: WheelAxle
+    3300028: WheelCap
+    3300030: WheelSpokes
+    4300000: Foundation
+    4300002: LeftBuilding
+    4300004: Door
+    4300006: RoofB
+    4300008: RoofA
+    4300010: RightBuilding
+    4300012: LargeWindow
+    4300014: Small_Window
+    4300016: RoofC
+    4300018: WheelAxle
+    4300020: Wheel
+    4300022: WheelSpokes
+    4300024: WheelCap
+    4300026: Barrel
+    4300028: Stones
+    4300030: Stairs
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 256
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
